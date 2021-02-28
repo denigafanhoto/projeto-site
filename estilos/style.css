@@ -13,3 +13,11 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px black;
 }
+h1 {
+    font-size: 2cm;
+    color: blueviolet;
+}
+h2 {
+    font-size: 1cm;
+    color: rgb(146, 83, 146);
+}
