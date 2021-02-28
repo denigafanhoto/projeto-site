@@ -14,11 +14,14 @@ main {
     box-shadow: 3px 3px 5px black;
 }
 h1 {
-    font-size: 1.5cm;
+    font-size: 2em;
     color: blueviolet;
     text-align: center;
 }
 h2 {
-    font-size: 1cm;
+    font-size: 1.5em;
     color: rgb(146, 83, 146);
+}
+img.lado {
+    float: right;
 }
